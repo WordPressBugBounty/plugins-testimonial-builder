@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Testimonial  Builder
- * Version: 1.7.8
+ * Version: 1.7.9
  * Description:  Testimonial Builder is most flexible WordPress plugin available to Add and manage your Testimonial page with drag and drop feature. 
  * Author: wpshopmart
  * Author URI: https://www.wpshopmart.com

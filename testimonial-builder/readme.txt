@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://wpshopmart.com/plugins/testimonial-pro/
 Tags: testimonial, testimonials, testimonial slider, testimonial showcase, reviews
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 1.7.8
+Tested up to: 6.7.1
+Stable tag: 1.7.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -182,6 +182,9 @@ Just open your widget menu then add "Text widget" , now paste your testimonial s
 
 
 == Changelog ==
+
+= 1.7.9 =
+* Compatible with wordpress version 6.7.1
 
 = 1.7.8 =
 * Compatible with wordpress version 6.6
